@@ -1,0 +1,5 @@
+{
+  "name": "Road Fighter Clone",
+  "description": "Un juego de carreras retro estilo Road Fighter. Esquiva enemigos, recoge combustible y llega a la meta antes de que se acabe el tiempo.",
+  "requestFramePermissions": []
+}
